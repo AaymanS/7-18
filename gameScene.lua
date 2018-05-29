@@ -2,7 +2,7 @@
 -- Created by: Aayman Shameem
 -- Created on: May 29, 2018
 -- 
--- This code will show the user a Robot jumping and shooting (not at the same time)
+-- This code will allow the user to make the robot walk, jump and shoot at things
 -----------------------------------------------------------------------------------------
 
 -- game scene
